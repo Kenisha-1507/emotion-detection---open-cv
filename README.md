@@ -160,10 +160,3 @@ Detected Emotion: Happy
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
-
----
-
-Let me know if you want this converted into a downloadable `README.md` file or integrated with a codebase!
