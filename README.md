@@ -1,4 +1,3 @@
-Description
 This project implements an Emotion-Aware Speech Recognition System that processes an MP4 video, extracts its audio, transcribes the speech using OpenAI's Whisper model, and detects the speaker's emotional state using audio features like MFCCs and pitch. It uses basic machine learning (Support Vector Machine) for classifying emotions and is intended as a prototype for integrating emotion understanding in speech interfaces or media analytics.
 
 Working Principle
