@@ -1,6 +1,4 @@
-Here’s a cleanly **formatted Markdown documentation** of your **Emotion Recognition System (Facial Expression Recognition)** overview, suitable for GitHub or technical documentation:
 
----
 
 # 😄 Emotion Recognition System: Facial Expression Recognition (FER)
 
